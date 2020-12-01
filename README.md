@@ -1,2 +1,2 @@
 # pctsp
-prize-collecting travelings salesman problem
+prize-collecting traveling salesman problem
